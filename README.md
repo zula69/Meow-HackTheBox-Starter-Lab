@@ -40,7 +40,7 @@ The objective this lab is to introduce beginners to the fundamentals of penetrat
 ### step 4-Exploit Telnet
 ![telnet](https://github.com/user-attachments/assets/e91f25dd-4ba6-473f-a580-eaf8e65274bc)
 ![telnet2](https://github.com/user-attachments/assets/4ea2ef91-993b-46ff-b7bc-fc5dd8623a7b)
-- someimes, due to the configuration mistakes, some important accounts can be left with blanks passwords.So we can try some typical names such as admin, root, administrator etc.
+- someimes, due to the configuration mistakes, some important accounts can be left with blanks passwords. So we can try some typical names such as admin, root, administrator etc.
 
 
 ### Step 5-Capture the flag
